@@ -1,7 +1,7 @@
 # IGReport
 
 <p align="center">
-  <img src="imagen_2021-12-04_191832.png" height=600px width=350px>
+  <img src="imagen_2021-12-04_191832.png" height=350px width=600px>
 </p>
 
 ## Objetivo de la herramienta
