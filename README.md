@@ -1,4 +1,9 @@
 # IGReport
+
+<p align="center">
+  <img src="C:\Users\antvi\Pictures\IGReport.jpg">
+</p>
+
 ## Objetivo de la herramienta
 -Esta herramienta consiste en seguir indefinidamente un usuario, al punto de que instagram detecte los seguidores del usuario como bots pagados o que el mismo los uso en su cuenta, lo cual es ilegal. Instagram puede llegar a banear la cuenta. Debes usar VPN, ya que como dije antes es ilegal, y deben protegerse de cualquier peligro.
 
