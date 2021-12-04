@@ -1,7 +1,7 @@
 # IGReport
 
 <p align="center">
-  <img src="C:\Users\antvi\Pictures\IGReport.jpg">
+  <img src="">
 </p>
 
 ## Objetivo de la herramienta
